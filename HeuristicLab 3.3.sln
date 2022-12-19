@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96396439-A764-4022-A8D2-BE021449B8D1}"
 	ProjectSection(SolutionItems) = preProject
@@ -135,6 +135,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeuristicLab-3.3", "Heurist
 		{0C2917C8-7AA8-4E18-800A-C4D064F992ED} = {0C2917C8-7AA8-4E18-800A-C4D064F992ED}
 		{79271BC8-4446-40E2-BB89-9BE4E17174FE} = {79271BC8-4446-40E2-BB89-9BE4E17174FE}
 		{BBF2CCC8-4D87-4297-8E18-8241FF93F966} = {BBF2CCC8-4D87-4297-8E18-8241FF93F966}
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA} = {AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}
 		{59F354CB-FE13-4253-AED2-AD86372BEC27} = {59F354CB-FE13-4253-AED2-AD86372BEC27}
 		{4B76E2CB-A990-4959-B080-1D81D418D325} = {4B76E2CB-A990-4959-B080-1D81D418D325}
 		{D1EFA4CC-909F-41D5-9C1F-C3AF1957A372} = {D1EFA4CC-909F-41D5-9C1F-C3AF1957A372}
@@ -472,6 +473,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeuristicLab.Algorithms.DataAnalysis.DecisionTrees-3.4", "HeuristicLab.Algorithms.DataAnalysis.DecisionTrees\3.4\HeuristicLab.Algorithms.DataAnalysis.DecisionTrees-3.4.csproj", "{541A53F3-E6A7-402F-91BB-D76041CDD9FD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeuristicLab.Algorithms.MultiObjectiveLocalSearch", "HeuristicLab.Algorithms.MultiObjectiveLocalSearch\3.3\HeuristicLab.Algorithms.MultiObjectiveLocalSearch.csproj", "{4CCDD23A-9FA3-4B36-9469-87D67E99225F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALNS", "ALNS\ALNS.csproj", "{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2303,6 +2306,18 @@ Global
 		{4CCDD23A-9FA3-4B36-9469-87D67E99225F}.Release|x64.Build.0 = Release|x64
 		{4CCDD23A-9FA3-4B36-9469-87D67E99225F}.Release|x86.ActiveCfg = Release|x86
 		{4CCDD23A-9FA3-4B36-9469-87D67E99225F}.Release|x86.Build.0 = Release|x86
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Debug|x64.Build.0 = Debug|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Debug|x86.Build.0 = Debug|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Release|x64.ActiveCfg = Release|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Release|x64.Build.0 = Release|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Release|x86.ActiveCfg = Release|Any CPU
+		{AD259ACA-9F42-48DA-8B4C-3AD51ACDA8AA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
